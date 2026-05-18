@@ -7,9 +7,11 @@
 Founded in 2004. A student research team dedicated to embodied intelligence and robotics.
 
 [![RoboCup 2025](https://img.shields.io/badge/RoboCup_2025-AdultSize_Champion-gold?logo=robot)]()
+[![RoboCup 2025](https://img.shields.io/badge/RoboCup_2025-KidSize_Runner--up-silver?logo=robot)]()
+[![RoboCup 2025](https://img.shields.io/badge/RoboCup_2025-@Home_Top_8-orange?logo=robot)]()
+[![RoboCup 2025](https://img.shields.io/badge/RoboCup_2025-German_Open_Champion-yellow?logo=robot)]()
 [![Founded](https://img.shields.io/badge/Since-2004-blue)]()
 [![Open Source](https://img.shields.io/badge/Open_Source_Community-Apr_2026-brightgreen?logo=github)]()
-[![National Course](https://img.shields.io/badge/National_First--Class_Course-Virtual_Simulation-success)]()
 
 </div>
 
