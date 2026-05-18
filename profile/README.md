@@ -19,24 +19,43 @@ Founded in 2004. A student research team dedicated to embodied intelligence and 
 
 ## 👥 Teams
 
-### 🔥 Hephaestus — Humanoid AdultSize
+<table>
+<tr>
+<th>🔥 Hephaestus</th>
+<th>⚡ TH-MOS</th>
+<th>🏠 Tinker</th>
+</tr>
+<tr>
+<td align="center"><b>Humanoid AdultSize</b></td>
+<td align="center"><b>Humanoid KidSize & MiddleSize</b></td>
+<td align="center"><b>@Home</b></td>
+</tr>
+<tr>
+<td>
 
-`balance-control` `dynamic-gait` `humanoid-soccer`
+`balance-control` `dynamic-gait`
 
-- 🏆 **RoboCup 2025 AdultSize Champion** — First-ever Chinese team to win this league
-- 🏆 RoboCup 2025 German Open Champion
+🏆 RoboCup 2025 **AdultSize Champion** — First Chinese team to win
 
-### ⚡ TH-MOS — Humanoid KidSize & MiddleSize
+🏆 German Open Champion
 
-`visual-perception` `decision-making` `motion-planning`
+</td>
+<td>
 
-- 🥈 **RoboCup 2025 KidSize Runner-up** — Best result in team history, defeated six-time champion Rhoban (FRA)
+`visual-perception` `motion-planning`
 
-### 🏠 Tinker — @Home
+🥈 RoboCup 2025 **KidSize Runner-up** — Best in team history
 
-`scene-recognition` `voice-interaction` `HRI`
+</td>
+<td>
 
-- 🏅 **RoboCup 2025 @Home Top 8**
+`scene-recognition` `HRI`
+
+🏅 RoboCup 2025 **@Home Top 8**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,3 +72,19 @@ Our open source community was established in April 2026, focusing on:
 ## 🧠 Research Interests
 
 `Robot Learning` `Vision-Language-Action` `Sim-to-Real` `Locomotion` `Manipulation` `Human-Robot Interaction`
+
+---
+
+## 🌐 Links
+
+<p align="center">
+  <a href="https://huggingface.co/Thu-FuRoc">
+    <img src="https://img.shields.io/badge/🤗_Hugging_Face-Thu--FuRoc-yellow?style=for-the-badge" />
+  </a>
+  <a href="https://lcnxgbkker34.feishu.cn/wiki/Ie11wO6PDiVgcOklR6ncaIpNnsf?from=from_copylink">
+    <img src="https://img.shields.io/badge/飞书-中文板块-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Thu-FuRoc">
+    <img src="https://img.shields.io/badge/GitHub-Organization-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
