@@ -1,19 +1,19 @@
-<div align="center">
+<p align="center">
+  <img src="assets/logo.jpg" width="120" align="left" hspace="20" />
+</p>
 
-# 🤖 Thu-FuRoc
+<h1 align="left">🤖 Thu-FuRoc</h1>
 
-**Future Robotics Club, Tsinghua University**
-
-Founded in 2004. A student research team dedicated to embodied intelligence and robotics.
-
-[![RoboCup 2025](https://img.shields.io/badge/RoboCup_2025-AdultSize_Champion-gold?logo=robot)]()
-[![RoboCup 2025](https://img.shields.io/badge/RoboCup_2025-KidSize_Runner--up-silver?logo=robot)]()
-[![RoboCup 2025](https://img.shields.io/badge/RoboCup_2025-@Home_Top_8-orange?logo=robot)]()
-[![RoboCup 2025](https://img.shields.io/badge/RoboCup_2025-German_Open_Champion-yellow?logo=robot)]()
-[![Founded](https://img.shields.io/badge/Since-2004-blue)]()
-[![Open Source](https://img.shields.io/badge/Open_Source_Community-Apr_2026-brightgreen?logo=github)]()
-
-</div>
+<p align="left">
+  <b>Future Robotics Club, Tsinghua University</b><br>
+  Founded in 2004. A student research team dedicated to embodied intelligence and robotics.<br><br>
+  <a href="https://github.com/Thu-FuRoc"><img src="https://img.shields.io/badge/RoboCup_2025-AdultSize_Champion-gold?logo=robot" /></a>
+  <a href="https://github.com/Thu-FuRoc"><img src="https://img.shields.io/badge/RoboCup_2025-KidSize_Runner--up-silver?logo=robot" /></a>
+  <a href="https://github.com/Thu-FuRoc"><img src="https://img.shields.io/badge/RoboCup_2025-@Home_Top_8-orange?logo=robot" /></a>
+  <a href="https://github.com/Thu-FuRoc"><img src="https://img.shields.io/badge/RoboCup_2025-German_Open_Champion-yellow?logo=robot" /></a>
+  <img src="https://img.shields.io/badge/Since-2004-blue" />
+  <img src="https://img.shields.io/badge/Open_Source_Community-Apr_2026-brightgreen?logo=github" />
+</p>
 
 ---
 
